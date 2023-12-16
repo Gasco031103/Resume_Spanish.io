@@ -7,11 +7,11 @@ repository: Git repository where your resume will be hosted, only required if yo
 version: 2
 
 # Personal info
-name: Edgardo Enrique Sanchez Gomez
-title: Ingeniero en informática
-email: eesg031103@gmail.com
+name: "Edgardo Enrique Sanchez Gomez"
+title: "Ingeniero en informática"
+email: "eesg031103@gmail.com"
 # email_title: Email (Email title override)
-phone: +52 3335584053
+phone: "+52 3335584053"
 # phone_title: Phone (Phone title override)
 #website: Your website (eg. https://google.com)(optional)
 # website_title: Web (Website title override)
